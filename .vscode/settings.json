@@ -1,0 +1,21 @@
+{
+  "editor.tabCompletion": "on",
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": true,
+    "strings": true
+  },
+  "editor.suggest.showInlineDetails": true,
+  "editor.suggest.showStatusBarItems": true,
+  "editor.suggestSelection": "first",
+  "editor.inlineSuggest.enabled": true,
+  "cody.enabled": false,
+  "github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
+  "continue.enableTabAutocomplete": true,
+  "continue.telemetryEnabled": false
+}
